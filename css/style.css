@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+
+}
+
+#first{
+    display: flex;
+    padding: 35px 13rem
+}
+.text .home{
+    padding:0px 22px;
+    font-size: 12px;
+    color:#929292;
+    margin:auto;
+}
+.text a{
+    padding:0px 22px;
+    font-size: 12px;
+    color:#080808;
+    margin:auto;
+    width: 30%;
+}
+#logo{
+    color:black;
+    padding: 0px 2rem;
+    text-align: center;
+    width: 40%;
+}
+#cart a
+{
+    padding:0px 36px;
+    font-size: 12px;
+    color:#080808;
+    margin:auto;
+    width: 30%;
+}
+    
